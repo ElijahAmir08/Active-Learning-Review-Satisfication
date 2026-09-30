@@ -10,7 +10,7 @@ The project uses hotel review text and rating information to create a binary sat
 1. Random sampling
 2. Uncertainty sampling
 
-The main research question is:
+The main question is:
 
 > Can active learning improve model performance by selecting more informative reviews for labeling compared with random sampling?
 
